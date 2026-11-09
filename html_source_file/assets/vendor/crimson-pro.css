@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(font-1d7e307361b62e2d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(font-f78ef529c257c3ab.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(font-738d3a64ab97b455.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(font-5f614692e4dd13ac.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(font-a241de9d0bc73eaf.ttf) format('truetype');
+}

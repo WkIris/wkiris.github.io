@@ -1,0 +1,60 @@
+# 这是你以后唯一需要填写的文件。修改后保存，本地预览会在约 2 秒内自动更新。
+# 请从“打开个人主页.command”启动预览；不要直接双击 index.html。
+# 保留【栏目名称】以及冒号前的字段名，只改冒号后面的文字。
+# 不想展示的字段，清空冒号后面的内容；不想展示的栏目，清空栏目里的内容。
+# 已填写确认过的信息；没有内容的栏目会自动隐藏。
+# 以 # 开头的行是说明，不会显示在主页上。
+
+【基本信息】
+姓名：Yijun Wang
+身份：Undergraduate Student
+单位：Fudan University
+单位网址：
+邮箱：24307130086@m.fudan.edu.cn
+头像：./assets/img/profile-photo.jpg
+简历：
+Google Scholar：
+GitHub：https://github.com/WkIris
+B站：https://space.bilibili.com/608821744
+
+网站描述：Yijun Wang 的个人主页
+网站域名：https://wkiris.github.io/
+
+# 下方可以直接写多段介绍，段落之间空一行。
+【个人介绍】
+I am an undergraduate student at Fudan University. My research interests lie in embodied intelligence and multimodal AI.
+
+Outside of my studies, I enjoy listening to music, especially Jay Chou and David Tao.
+
+# 下方一行一项，想增加就另起一行。
+【研究方向】
+Embodied Intelligence: World Models, Dexterous Hands
+Multimodal AI
+
+【个人动态】
+
+# 每篇论文用一整段【论文】，增加论文时复制该段；不需要的字段留空即可。
+【论文】
+标题：
+作者：
+发表信息：
+会议简称：
+图片：
+PDF：
+代码：
+项目主页：
+BibTex：
+备注：
+
+# 每个项目复制一段【项目】。目前留空，不会显示 Projects 栏目。
+# 简介需要换行时，后续行的开头加两个空格。
+【项目】
+名称：
+简介：
+链接：
+图片：
+
+# 下方一行一项。
+【会议审稿】
+
+【期刊审稿】

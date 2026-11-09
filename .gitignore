@@ -1,0 +1,6 @@
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+html_source_file/index.html
+*.html.tmp
